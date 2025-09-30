@@ -1,4 +1,4 @@
-# EmployeeDatabaseAssignment
+# EmployeesDatabaseAssignment
 
 This project creates a complete SQL Server database solution for managing employee records. It covers table creation, data insertion, and running queries to extract information based on different criteria. 
 The goal is to simulate a small HR database where employee data is organized, searchable, and analyzable.
@@ -91,7 +91,7 @@ FROM Employee;
 
 Clone the repository:
 ```sql
-git clone https://github.com/Michelle-Lichtenstein/EmployeeDatabaseAssignment.git
+git clone https://github.com/Michelle-Lichtenstein/EmployeesDatabaseAssignment.git
 ```
 
 - Open Employee_Table_And_Queries.sql in SSMS.
